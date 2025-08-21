@@ -29,7 +29,7 @@ A comprehensive Python-based system that processes cricket videos in real-time, 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/athleterise-cricket-analytics.git
+git clone https://github.com/shreyas025/athleterise-cricket-analytics.git
 cd athleterise-cricket-analytics
 ```
 
