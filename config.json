@@ -1,0 +1,28 @@
+{
+  "angle_thresholds": {
+    "good_elbow_min": 100,
+    "good_elbow_max": 140,
+    "spine_lean_max": 25,
+    "head_knee_threshold": 50
+  },
+  "ideal_ranges": {
+    "elbow_angle": [110, 130],
+    "spine_lean": [10, 20],
+    "front_foot_angle": [30, 60]
+  },
+  "phase_detection": {
+    "velocity_threshold": 5.0,
+    "acceleration_threshold": 10.0
+  },
+  "output": {
+    "target_fps": 30,
+    "overlay_alpha": 0.7
+  },
+  "reference_shot": {
+    "description": "Professional cover drive reference metrics",
+    "elbow_angle_sequence": [115, 120, 125, 130, 135, 140],
+    "spine_lean_max": 15,
+    "head_stability_threshold": 30,
+    "follow_through_duration_min": 0.5
+  }
+}
