@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-08-21T09:22:51.927859",
+  "video_info": {
+    "path": "temp_video.mp4",
+    "resolution": "360x640",
+    "fps": 30,
+    "total_frames": 136,
+    "processing_fps": 26.744970560740786
+  },
+  "evaluation": {
+    "footwork": 1.0,
+    "head_position": 10.0,
+    "swing_control": 5.02458419432958,
+    "balance": 1.0,
+    "follow_through": 10.0,
+    "overall_score": 5.404916838865916,
+    "feedback": {
+      "footwork": "Work on front foot positioning. Aim to point towards the ball.",
+      "head_position": "Excellent head position. Good balance maintained.",
+      "swing_control": "Focus on elbow positioning and smoother swing tempo.",
+      "balance": "Reduce lateral spine lean. Stay more upright through the shot.",
+      "follow_through": "Good follow-through. Complete shot execution."
+    },
+    "skill_grade": "Beginner"
+  },
+  "metrics_summary": {
+    "total_frames_analyzed": 136,
+    "valid_pose_detections": 136,
+    "phases_detected": [
+      "Follow-through",
+      "Stance",
+      "Stride",
+      "Downswing"
+    ]
+  }
+}
